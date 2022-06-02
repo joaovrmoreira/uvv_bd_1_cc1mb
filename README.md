@@ -4,3 +4,6 @@
 
 ## PSet-2
 **Toda a documentação do segundo PSet**
+
+## PSet-3
+**Toda a documentação do terceiro PSet**
